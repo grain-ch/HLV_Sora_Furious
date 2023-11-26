@@ -1,0 +1,10 @@
+<BAB705_Albacore_wire.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAB705_Albacore_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAB705_Albacore_a.dds	</Texture>
+	</property>
+</BAB705_Albacore_wire.mfm>

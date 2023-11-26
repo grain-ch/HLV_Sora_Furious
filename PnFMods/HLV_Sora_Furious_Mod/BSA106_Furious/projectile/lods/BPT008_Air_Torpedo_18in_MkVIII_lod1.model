@@ -1,0 +1,7 @@
+<BPT008_Air_Torpedo_18in_MkVIII_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/projectile/lods/BPT008_Air_Torpedo_18in_MkVIII_lod2	</parent>
+	<extent>	6.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/projectile/lods/BPT008_Air_Torpedo_18in_MkVIII_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BPT008_Air_Torpedo_18in_MkVIII_lod1.model>

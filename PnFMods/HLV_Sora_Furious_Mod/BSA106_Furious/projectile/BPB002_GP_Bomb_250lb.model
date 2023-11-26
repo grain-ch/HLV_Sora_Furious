@@ -1,0 +1,7 @@
+<BPB002_GP_Bomb_250lb.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/projectile/lods/BPB002_GP_Bomb_250lb_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/projectile/BPB002_GP_Bomb_250lb	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BPB002_GP_Bomb_250lb.model>

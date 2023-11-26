@@ -1,0 +1,7 @@
+<BGA073_2_pdr_MkVIII_8barrel_dead_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/gun/lods/BGA073_2_pdr_MkVIII_8barrel_dead_lod3	</parent>
+	<extent>	25.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/gun/lods/BGA073_2_pdr_MkVIII_8barrel_dead_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA073_2_pdr_MkVIII_8barrel_dead_lod2.model>

@@ -1,0 +1,8 @@
+<BAD702_Blackburn_Skua_proto_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/lods/BAD702_Blackburn_Skua_proto_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/lods/BAD702_Blackburn_Skua_proto_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BAD702_Blackburn_Skua_proto_lod1.model>

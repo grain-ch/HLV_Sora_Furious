@@ -1,0 +1,720 @@
+<BAF704_Sea_Hurricane_MkIIC_proto_lod1.visual>
+	<boundingBox>
+		<min>	-0.406483 0.000212 -0.488560	</min>
+		<max>	0.406483 0.256551 0.192039	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_Air_break_1	</identifier>
+				<transform>
+					<row0>	0.988127 -0.067225 -0.138153 0.000000	</row0>
+					<row1>	0.084325 0.988954 0.121902 0.000000	</row1>
+					<row2>	0.128432 -0.132104 0.982880 0.000000	</row2>
+					<row3>	-0.098205 0.090201 -0.106250 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_break_2	</identifier>
+				<transform>
+					<row0>	0.988127 0.067225 0.138153 0.000000	</row0>
+					<row1>	-0.084325 0.988954 0.121902 0.000000	</row1>
+					<row2>	-0.128432 -0.132104 0.982880 0.000000	</row2>
+					<row3>	0.097316 0.090141 -0.106374 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_death_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.137845 -0.054725 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_enginelight_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999943 -0.010686 0.000000	</row1>
+					<row2>	0.000000 0.010686 0.999943 0.000000	</row2>
+					<row3>	-0.038608 0.145715 0.078757 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_enginelight_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999989 0.004643 0.000000	</row1>
+					<row2>	0.000000 -0.004643 0.999989 0.000000	</row2>
+					<row3>	-0.038608 0.145706 0.057854 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_enginelight_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999989 0.004643 0.000000	</row1>
+					<row2>	0.000000 -0.004643 0.999989 0.000000	</row2>
+					<row3>	-0.038608 0.145695 0.036771 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_enginelight_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999943 -0.010686 0.000000	</row1>
+					<row2>	0.000000 0.010686 0.999943 0.000000	</row2>
+					<row3>	0.038625 0.145715 0.078757 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_enginelight_5	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000466 0.000000	</row1>
+					<row2>	0.000000 -0.000466 1.000000 0.000000	</row2>
+					<row3>	0.038625 0.145706 0.057854 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_enginelight_6	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999995 -0.003116 0.000000	</row1>
+					<row2>	0.000000 0.003116 0.999995 0.000000	</row2>
+					<row3>	0.038625 0.145716 0.036771 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.030757 0.145706 0.070830 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.032084 0.145706 0.048402 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.137792 0.113305 -0.037013 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.028114 0.157275 -0.030145 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_5	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000944 0.074818 -0.097040 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_6	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.079309 0.114149 -0.049391 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_fire_7	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.120499 -0.382480 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_flytrail_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999950 -0.010002 0.000000	</row1>
+					<row2>	0.000000 0.010002 0.999950 0.000000	</row2>
+					<row3>	-0.406886 0.111941 -0.034751 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_flytrail_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999950 -0.010001 0.000000	</row1>
+					<row2>	0.000000 0.010001 0.999950 0.000000	</row2>
+					<row3>	0.406886 0.111941 -0.034751 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_gunfire_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.166227 0.098942 0.069977 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_gunfire_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.124467 0.096824 0.067946 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_gunfire_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.124467 0.096824 0.067946 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_gunfire_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.166227 0.098942 0.069977 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_ricochet_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.233484 0.117211 -0.044339 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_ricochet_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.097529 0.115562 -0.048006 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_ricochet_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.011486 0.160441 -0.383636 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_ricochet_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.002408 0.229708 -0.423190 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_ricochet_5	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.025266 0.156742 -0.222460 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_ricochet_6	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.034044 0.099065 -0.000177 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_rocket_1	</identifier>
+				<transform>
+					<row0>	0.9960 -0.0890 0.0000 0.0000	</row0>
+					<row1>	0.0890 0.9960 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1787 0.0824 -0.0647 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_rocket_2	</identifier>
+				<transform>
+					<row0>	0.9960 0.0891 0.0000 0.0000	</row0>
+					<row1>	-0.0891 0.9960 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1786 0.0824 -0.0644 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_rocket_3	</identifier>
+				<transform>
+					<row0>	0.9960 -0.0890 0.0000 0.0000	</row0>
+					<row1>	0.0890 0.9960 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1909 0.0835 -0.0647 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_rocket_4	</identifier>
+				<transform>
+					<row0>	0.9960 0.0891 0.0000 0.0000	</row0>
+					<row1>	-0.0891 0.9960 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1909 0.0835 -0.0644 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_rocket_5	</identifier>
+				<transform>
+					<row0>	0.9960 -0.0890 0.0000 0.0000	</row0>
+					<row1>	0.0890 0.9960 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2021 0.0845 -0.0647 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_rocket_6	</identifier>
+				<transform>
+					<row0>	0.9960 0.0891 0.0000 0.0000	</row0>
+					<row1>	-0.0891 0.9960 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2021 0.0845 -0.0644 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_sleeve_1	</identifier>
+				<transform>
+					<row0>	0.996490 -0.083713 0.000000 0.000000	</row0>
+					<row1>	0.083672 0.996002 0.031288 0.000000	</row1>
+					<row2>	-0.002619 -0.031179 0.999510 0.000000	</row2>
+					<row3>	-0.167006 0.089672 -0.049496 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_sleeve_2	</identifier>
+				<transform>
+					<row0>	0.996490 -0.083713 0.000000 0.000000	</row0>
+					<row1>	0.083672 0.996002 0.031288 0.000000	</row1>
+					<row2>	-0.002619 -0.031179 0.999510 0.000000	</row2>
+					<row3>	-0.127823 0.086380 -0.049496 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_sleeve_3	</identifier>
+				<transform>
+					<row0>	0.996490 0.083713 0.000000 0.000000	</row0>
+					<row1>	-0.083672 0.996002 0.031288 0.000000	</row1>
+					<row2>	0.002619 -0.031179 0.999510 0.000000	</row2>
+					<row3>	0.126831 0.085296 -0.051089 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_sleeve_4	</identifier>
+				<transform>
+					<row0>	0.996490 0.083713 0.000000 0.000000	</row0>
+					<row1>	-0.083672 0.996002 0.031288 0.000000	</row1>
+					<row2>	0.002619 -0.031179 0.999510 0.000000	</row2>
+					<row3>	0.166761 0.088572 -0.048609 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	elevator_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.091736 0.155834 -0.429895 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	elevator_1_BlendBone	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.091736 -0.155834 0.429895 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	l_ailerone_1	</identifier>
+				<transform>
+					<row0>	0.991387 -0.054906 -0.118896 0.000000	</row0>
+					<row1>	0.055299 0.998470 0.000000 0.000000	</row1>
+					<row2>	0.118714 -0.006575 0.992907 0.000000	</row2>
+					<row3>	-0.359637 0.110914 -0.071057 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	l_ailerone_1_BlendBone	</identifier>
+					<transform>
+						<row0>	0.991387 0.055299 0.118714 0.000000	</row0>
+						<row1>	-0.054906 0.998470 -0.006575 0.000000	</row1>
+						<row2>	0.118896 0.000000 -0.992907 0.000000	</row2>
+						<row3>	0.354182 -0.090857 0.113976 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	l_flaps_1	</identifier>
+				<transform>
+					<row0>	0.988127 -0.067224 -0.138151 0.000000	</row0>
+					<row1>	0.067875 0.997694 0.000000 0.000000	</row1>
+					<row2>	0.137833 -0.009377 0.990411 0.000000	</row2>
+					<row3>	-0.223478 0.098724 -0.088735 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	l_flaps_1_BlendBone	</identifier>
+					<transform>
+						<row0>	0.988127 0.067875 0.137833 0.000000	</row0>
+						<row1>	-0.067224 0.997694 -0.009377 0.000000	</row1>
+						<row2>	0.138151 0.000000 -0.990411 0.000000	</row2>
+						<row3>	0.215203 -0.083328 0.119612 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	l_flaps_2	</identifier>
+				<transform>
+					<row0>	0.999360 -0.035719 -0.001990 0.000000	</row0>
+					<row1>	0.035719 0.999362 0.000000 0.000000	</row1>
+					<row2>	0.001988 -0.000071 0.999998 0.000000	</row2>
+					<row3>	-0.029417 0.087709 -0.106530 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	l_flaps_2_BlendBone	</identifier>
+					<transform>
+						<row0>	0.999360 0.035719 0.001988 0.000000	</row0>
+						<row1>	-0.035719 0.999362 -0.000071 0.000000	</row1>
+						<row2>	0.001990 0.000000 -0.999998 0.000000	</row2>
+						<row3>	0.032320 -0.086602 0.106594 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	r_ailerone_1	</identifier>
+				<transform>
+					<row0>	0.991388 0.054907 0.118889 0.000000	</row0>
+					<row1>	-0.055299 0.998470 0.000000 0.000000	</row1>
+					<row2>	-0.118707 -0.006574 0.992908 0.000000	</row2>
+					<row3>	0.359637 0.110914 -0.071057 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	r_ailerone_1_BlendBone	</identifier>
+					<transform>
+						<row0>	0.991388 -0.055299 -0.118707 0.000000	</row0>
+						<row1>	0.054907 0.998470 -0.006574 0.000000	</row1>
+						<row2>	-0.118889 0.000000 -0.992908 0.000000	</row2>
+						<row3>	-0.354182 -0.090857 0.113974 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	r_flaps_1	</identifier>
+				<transform>
+					<row0>	0.988127 0.067224 0.138153 0.000000	</row0>
+					<row1>	-0.067875 0.997694 0.000000 0.000000	</row1>
+					<row2>	-0.137835 -0.009377 0.990411 0.000000	</row2>
+					<row3>	0.223478 0.098724 -0.088735 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	r_flaps_1_BlendBone	</identifier>
+					<transform>
+						<row0>	0.988127 -0.067875 -0.137835 0.000000	</row0>
+						<row1>	0.067224 0.997694 -0.009377 0.000000	</row1>
+						<row2>	-0.138153 0.000000 -0.990411 0.000000	</row2>
+						<row3>	-0.215203 -0.083328 0.119613 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	r_flaps_2	</identifier>
+				<transform>
+					<row0>	0.999360 0.035721 0.001984 0.000000	</row0>
+					<row1>	-0.035721 0.999362 0.000000 0.000000	</row1>
+					<row2>	-0.001983 -0.000071 0.999998 0.000000	</row2>
+					<row3>	0.029417 0.087709 -0.106530 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	r_flaps_2_BlendBone	</identifier>
+					<transform>
+						<row0>	0.999360 -0.035721 -0.001983 0.000000	</row0>
+						<row1>	0.035721 0.999362 -0.000071 0.000000	</row1>
+						<row2>	-0.001984 0.000000 -0.999998 0.000000	</row2>
+						<row3>	-0.032320 -0.086602 0.106594 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	rudder_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000058 0.256551 -0.437282 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	rudder_1_BlendBone	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	-0.000058 -0.256551 0.437282 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+		<node>
+			<identifier>	Hull	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	chassis_on_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	pylon_rocket_default_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Hull_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	chassis_off_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	propeller_mod	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.137340 0.125339 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	disc	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	disc_1	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	mod	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	l_ailerone_1_BlendBone	</node>
+		<node>	r_flaps_1_BlendBone	</node>
+		<node>	r_flaps_2_BlendBone	</node>
+		<node>	elevator_1_BlendBone	</node>
+		<node>	rudder_1_BlendBone	</node>
+		<node>	r_ailerone_1_BlendBone	</node>
+		<node>	l_flaps_2_BlendBone	</node>
+		<node>	l_flaps_1_BlendBone	</node>
+		<node>	Root_BlendBone	</node>
+		<geometry>
+			<vertices>	Hull_lod1Shape.vertices	</vertices>
+			<primitive>	Hull_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	chassis_on_BlendBone	</node>
+		<geometry>
+			<vertices>	chassis_on_BlendBone_lod1Shape.vertices	</vertices>
+			<primitive>	chassis_on_BlendBone_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	pylon_rocket_default_BlendBone	</node>
+		<geometry>
+			<vertices>	pylon_rocket_default_BlendBone_lod1Shape.vertices	</vertices>
+			<primitive>	pylon_rocket_default_BlendBone_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Hull_wire	</node>
+		<geometry>
+			<vertices>	Hull_wire_lod1Shape.vertices	</vertices>
+			<primitive>	Hull_wire_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	chassis_off_BlendBone	</node>
+		<geometry>
+			<vertices>	chassis_off_BlendBone_lod1Shape.vertices	</vertices>
+			<primitive>	chassis_off_BlendBone_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	disc	</node>
+		<geometry>
+			<vertices>	disc_lod1Shape.vertices	</vertices>
+			<primitive>	disc_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PROPELLERMAT_propeller	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/German_Disk_3Blade_02_alpha.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	disc_1	</node>
+		<geometry>
+			<vertices>	disc_1_lod1Shape.vertices	</vertices>
+			<primitive>	disc_1_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	mod	</node>
+		<geometry>
+			<vertices>	mod_lod1Shape.vertices	</vertices>
+			<primitive>	mod_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<mfm>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAF704_Sea_Hurricane_MkIIC.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BAF704_Sea_Hurricane_MkIIC_proto_lod1.visual>
