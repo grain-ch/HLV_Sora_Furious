@@ -1,8 +1,6 @@
 <BSA002_Furious_1943_MidBack.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/ship/lods/BSA002_Furious_1943_MidBack_lod1	</parent>
-	<extent>	14.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/ship/BSA002_Furious_1943_MidBack	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/ship/BSA002_Furious_1943_MidBack.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BSA002_Furious_1943_MidBack.model>

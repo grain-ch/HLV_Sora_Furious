@@ -1,9 +1,6 @@
 <BD045_Pom_Pom_director_mk1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/director/lods/BD045_Pom_Pom_director_mk1_lod1	</parent>
-	<nodefullVisual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/director/BD045_Pom_Pom_director_mk1	</nodefullVisual>
-	<extent>	2.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/director/BD045_Pom_Pom_director_mk1.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BD045_Pom_Pom_director_mk1.model>

@@ -1,10 +1,10 @@
 <BAB706_Barracuda_MkII_wire.mfm>
-	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
-	<property>	metallicGlossMap
-		<Texture>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAB706_Barracuda_MkII_mg.dds	</Texture>
-	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAB706_Barracuda_MkII_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Sora_Furious_Mod/BSA106_Furious/aircraft/BAB706_Barracuda_MkII_mg.dds	</Texture>
 	</property>
 </BAB706_Barracuda_MkII_wire.mfm>
